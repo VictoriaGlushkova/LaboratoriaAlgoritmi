@@ -1,0 +1,16 @@
+C:\Users\Elena\source\repos\laba3\laba3\bin\Debug\laba3.exe.config
+C:\Users\Elena\source\repos\laba3\laba3\bin\Debug\laba3.exe
+C:\Users\Elena\source\repos\laba3\laba3\bin\Debug\laba3.pdb
+C:\Users\Elena\source\repos\laba3\laba3\obj\Debug\laba3.csprojResolveAssemblyReference.cache
+C:\Users\Elena\source\repos\laba3\laba3\obj\Debug\laba3.csproj.CoreCompileInputs.cache
+C:\Users\Elena\source\repos\laba3\laba3\obj\Debug\laba3.exe
+C:\Users\Elena\source\repos\laba3\laba3\obj\Debug\laba3.pdb
+C:\Users\Дарья\Documents\Мимимимимими10 сем\Мирвода\ЗАЧЁТ\laba3\laba3\bin\Debug\laba3.exe.config
+C:\Users\Дарья\Documents\Мимимимимими10 сем\Мирвода\ЗАЧЁТ\laba3\laba3\obj\Debug\laba3.exe
+C:\Users\Дарья\Documents\Мимимимимими10 сем\Мирвода\ЗАЧЁТ\laba3\laba3\obj\Debug\laba3.pdb
+I:\laba3\laba3\bin\Debug\laba3.exe.config
+I:\laba3\laba3\obj\Debug\laba3.exe
+I:\laba3\laba3\obj\Debug\laba3.pdb
+I:\laba3\laba3\bin\Debug\laba3.exe
+I:\laba3\laba3\bin\Debug\laba3.pdb
+I:\laba3\laba3\obj\Debug\laba3.csprojResolveAssemblyReference.cache

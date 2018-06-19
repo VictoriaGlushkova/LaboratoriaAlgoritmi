@@ -1,0 +1,6 @@
+I:\Поиск\Searh\Searh\bin\Debug\Searh.exe.config
+I:\Поиск\Searh\Searh\obj\Debug\Searh.csprojResolveAssemblyReference.cache
+I:\Поиск\Searh\Searh\bin\Debug\Searh.exe
+I:\Поиск\Searh\Searh\bin\Debug\Searh.pdb
+I:\Поиск\Searh\Searh\obj\Debug\Searh.exe
+I:\Поиск\Searh\Searh\obj\Debug\Searh.pdb
